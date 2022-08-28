@@ -17,7 +17,7 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 * Do sales figures vary between geographic regions?
 
 #### Tools
-The SQL analysis was carried out using PostgreSQL via pgAdmin 4.
+The SQL analysis was carried out using PostgreSQL in pgAdmin 4.
 The results of the queiries were exported to Excel and analysed in Tableau.
 The final presentation is in PowerPoint.
 
