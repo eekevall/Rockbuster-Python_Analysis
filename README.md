@@ -24,7 +24,7 @@ The final presentation is in PowerPoint.
 ### Data
 The Rockbuster project brief and dataset were provided by Career Foundry: <br>
 * Rockbuster Project Brief: PDF file <br>
-[Rockbuster_Project_Brief.pdf](https://github.com/eekevall/Rockbuster-SQL-Analysis/files/9440263/A3_Data_Project_Brief.pdf)
+[Rockbuster_Project_Brief.pdf](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Project_Brief%20.pdf)
 * Rockbuster dataset: tar file <br>
 [Rockbuster_Dataset](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster.tar)
 
