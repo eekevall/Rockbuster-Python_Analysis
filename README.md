@@ -16,10 +16,20 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 * Where are customers with a high lifetime value based?
 * Do sales figures vary between geographic regions?
 
-#### Tools
+### Tools
 The SQL analysis was carried out using PostgreSQL in pgAdmin 4.
 The results of the queiries were exported to Excel and analysed in Tableau.
 The final presentation is in PowerPoint.
 
-#### Data
-The Rockbuster dataset (Rockbuster.tar) included in this repository was provided by Career Foundry
+### Data
+The Rockbuster project brief and dataset were provided by Career Foundry: <br>
+* Rockbuster Project Brief: PDF file <br>
+[A3_Data_Project_Brief.pdf](https://github.com/eekevall/Rockbuster-SQL-Analysis/files/9440263/A3_Data_Project_Brief.pdf)
+* Rockbuster dataset: tar file <br>
+
+
+### Documentation and Presentation of Findings
+* Technical Document: Excel File <br> 
+[Rockbuster_Technical_Document.xlsx](https://github.com/eekevall/Rockbuster-SQL-Analysis/files/9440237/Rockbuster_Technical_Document.xlsx)
+* Data Dictionary and SQL Queries: PDF File <br> 
+[Data_Dictionary_SQL_Queries.pdf](https://github.com/eekevall/Rockbuster-SQL-Analysis/files/9440255/Data_Dictionary_SQL_Queries.pdf)
