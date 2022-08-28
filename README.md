@@ -26,7 +26,7 @@ The Rockbuster project brief and dataset were provided by Career Foundry: <br>
 * Rockbuster Project Brief: PDF file <br>
 [Rockbuster_Project_Brief.pdf](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Project_Brief%20.pdf)
 * Rockbuster dataset: tar file <br>
-[Rockbuster_Dataset](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster.tar)
+[Rockbuster_Dataset](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Dataset.tar)
 
 ### Documentation and Presentation of Findings
 * Technical Document: Excel File <br> 
