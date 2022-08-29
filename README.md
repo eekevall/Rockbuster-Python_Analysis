@@ -33,7 +33,7 @@ The Rockbuster project brief and dataset were provided by Career Foundry: <br>
 
 ### Documentation and Presentation of Findings
 * Rockbuster Presentation: PDF file <br>
-[Rockbuster_Presentation.pdf](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Presenttion.pdf)
+[Rockbuster_Presentation.pdf](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Presentation.pdf)
 * Full Analysis in Tableau <br>
 [Rockbuster Tableau Story Presentation](https://public.tableau.com/app/profile/elsa2253/viz/RockbusterPresentation_16542002624370/Story1)
 * Technical Document: Excel file <br> 
