@@ -32,7 +32,11 @@ The Rockbuster project brief and dataset were provided by Career Foundry: <br>
 ![Rockbuster_Entity_Relationship_Diagram](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Entity_Relationship_Diagram.jpg)
 
 ### Documentation and Presentation of Findings
-* Technical Document: Excel File <br> 
+* Rockbuster Presentation: PDF file <br>
+[Rockbuster_Presentation.pdf](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Presenttion.pdf)
+* Full Analysis in Tableau <br>
+[Rockbuster Tableau Story Presentation](https://public.tableau.com/app/profile/elsa2253/viz/RockbusterPresentation_16542002624370/Story1)
+* Technical Document: Excel file <br> 
 [Rockbuster_Technical_Document.xlsx](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Technical_Document_v1.0.xlsx)
 * Data Dictionary and all SQL Queries: PDF File <br> 
 [Data_Dictionary_SQL_Queries.pdf](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Data_Dictionary_SQL_Queries_v1.0.pdf)
