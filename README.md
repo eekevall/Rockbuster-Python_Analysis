@@ -34,5 +34,5 @@ The Rockbuster project brief and dataset were provided by Career Foundry: <br>
 ### Documentation and Presentation of Findings
 * Technical Document: Excel File <br> 
 [Rockbuster_Technical_Document.xlsx](https://github.com/eekevall/Rockbuster-SQL-Analysis/files/9440237/Rockbuster_Technical_Document.xlsx)
-* Data Dictionary and SQL Queries: PDF File <br> 
+* Data Dictionary and all SQL Queries: PDF File <br> 
 [Data_Dictionary_SQL_Queries.pdf](https://github.com/eekevall/Rockbuster-SQL-Analysis/files/9440255/Data_Dictionary_SQL_Queries.pdf)
