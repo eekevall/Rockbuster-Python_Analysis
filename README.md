@@ -17,9 +17,9 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 * Do sales figures vary between geographic regions?
 
 ### Tools
-The SQL analysis was carried out using PostgreSQL in pgAdmin 4.
-The results of the queiries were exported to Excel and analysed in Tableau.
-The final presentation was compiled in Keynote and converted to a PDF.
+The SQL analysis was carried out using PostgreSQL in pgAdmin 4.<br>
+The results of the queiries were exported to Excel and analysed in Tableau.<br>
+The final presentation was compiled in Keynote and converted to a PDF.<br>
 
 ### Data
 The Rockbuster project brief and dataset were provided by Career Foundry: <br>
@@ -31,7 +31,7 @@ The Rockbuster project brief and dataset were provided by Career Foundry: <br>
 #### The Rockbuster Entity Relationship Diagram
 ![Rockbuster_Entity_Relationship_Diagram](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Entity_Relationship_Diagram.jpg)
 
-### Documentation and Presentation of Findings
+### Project Documentation and Presentations
 * Rockbuster Presentation: PDF file <br>
 [Rockbuster_Presentation.pdf](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Presentation.pdf)
 * Full Analysis in Tableau <br>
