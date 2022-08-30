@@ -16,6 +16,15 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 * Where are customers with a high lifetime value based?
 * Do sales figures vary between geographic regions?
 
+### Data Analysis Tasks
+* Create a data dictionary
+* Summarise and clean the data
+* Filter and query the data
+* Join tables of data, perfom subqueries and write common table expressions (CTE)
+* Analyse the data
+* Create visualisations communicating insights for stakeholders
+* Present findings
+
 ### Tools
 The SQL analysis was carried out using PostgreSQL in pgAdmin 4.<br>
 The results of the queiries were exported to Excel and analysed in Tableau.<br>
