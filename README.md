@@ -31,11 +31,9 @@ The results of the queiries were exported to Excel and analysed in Tableau.<br>
 The final presentation was compiled in Keynote and converted to a PDF.<br>
 
 ### Data
-The Rockbuster project brief and dataset were provided by Career Foundry: <br>
-* Rockbuster Project Brief: PDF file <br>
-[Rockbuster_Project_Brief.pdf](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Project_Brief.pdf)
-* Rockbuster dataset: tar file <br>
-[Rockbuster_Dataset](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Dataset.tar)
+The Rockbuster project brief and data set were provided by Career Foundry: <br>
+* [Rockbuster_Project_Brief.pdf](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Project_Brief.pdf)
+* [Rockbuster_Dataset](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Dataset.tar)
 
 #### The Rockbuster Entity Relationship Diagram
 ![Rockbuster_Entity_Relationship_Diagram](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Entity_Relationship_Diagram.jpg)
@@ -43,11 +41,9 @@ The Rockbuster project brief and dataset were provided by Career Foundry: <br>
 ## Project Findings
 
 ### Project Documentation and Presentations
-* Rockbuster Presentation: PDF file <br>
-[Rockbuster_Presentation.pdf](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Presentation.pdf)
-* Full Analysis in Tableau <br>
-[Rockbuster Tableau Story Presentation](https://public.tableau.com/app/profile/elsa2253/viz/RockbusterPresentation_16542002624370/Story1)
-* Technical Document: Excel file <br> 
+* [Rockbuster_Presentation.pdf](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Presentation.pdf)
+* Link to [Rockbuster Interactive Story in Tableau](https://public.tableau.com/app/profile/elsa2253/viz/RockbusterPresentation_16542002624370/Story1)
+* Document containg the SQL queries and exported csv files: 
 [Rockbuster_Technical_Document.xlsx](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Rockbuster_Technical_Document_v1.0.xlsx)
-* Data Dictionary and all SQL Queries: PDF File <br> 
+* Document containing the data dictionary and all the SQL queries: 
 [Data_Dictionary_SQL_Queries.pdf](https://github.com/eekevall/Rockbuster-SQL-Analysis/blob/main/Data_Dictionary_SQL_Queries_v1.0.pdf)
