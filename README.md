@@ -27,7 +27,7 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 
 ### Tools
 The SQL analysis was carried out using PostgreSQL in pgAdmin 4.<br>
-The results of the queiries were exported to Excel and analysed in Tableau.<br>
+The results of the queries were exported to Excel and analysed in Tableau.<br>
 The final presentation was compiled in Keynote and converted to a PDF.<br>
 
 ### Data
