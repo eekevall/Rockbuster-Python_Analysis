@@ -20,7 +20,7 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 * Create a data dictionary
 * Summarise and clean the data
 * Filter and query the data
-* Join tables of data, perfom subqueries and write common table expressions (CTE)
+* Join tables of data, perform subqueries and write common table expressions (CTE)
 * Analyse the data
 * Create visualisations communicating insights for stakeholders
 * Present findings
